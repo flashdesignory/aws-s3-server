@@ -1,0 +1,8 @@
+dist/
+node_modules/
+.DS_Store
+public/*hot-update.json
+public/*hot-update.js
+public/server.js
+*.map
+.env
